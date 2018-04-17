@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"military-rp"
+	"author"	"MonkeyNut"
+	"menusystem" "1"
+}
