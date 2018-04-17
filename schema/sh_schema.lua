@@ -1,4 +1,4 @@
-SCHEMA.name = "Military Roleplay"
+SCHEMA.name = "Nexus Networks, A Military Roleplay Server."
 SCHEMA.author = "MonkeyNut"
 SCHEMA.desc = "A gamemode based in the year 2020, CSTO vs NATO."
 
