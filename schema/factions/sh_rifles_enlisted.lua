@@ -1,7 +1,7 @@
 FACTION.name = "1st Battalion The Rifles Enlisted"
 FACTION.desc = "1st Battalion The Rifles Rifles Enlisted"
 FACTION.color = Color(0, 0, 255)
-FACTION.isDefault = true
+FACTION.isDefault = false
 FACTION.models = {
 	"models/player/Group01/male_02.mdl"
 }
