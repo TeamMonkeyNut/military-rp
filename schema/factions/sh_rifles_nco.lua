@@ -17,4 +17,4 @@ end
 
 FACTION.pay = 15
 FACTION.isGloballyRecognized = true
-FACTION_UK_RIFLES_EN = FACTION.index
+FACTION_UK_RIFLES_NCO = FACTION.index
