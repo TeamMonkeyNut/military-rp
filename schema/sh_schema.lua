@@ -1,6 +1,6 @@
 SCHEMA.name = "Nexus Networks, A Military Roleplay Server."
 SCHEMA.author = "MonkeyNut"
-SCHEMA.desc = "A gamemode based in the year 2020, CSTO vs NATO."
+SCHEMA.desc = "A gamemode based in the year 2020. CSTO vs NATO."
 
 nut.util.include("sv_database.lua")
 nut.util.include("sh_configs.lua")
