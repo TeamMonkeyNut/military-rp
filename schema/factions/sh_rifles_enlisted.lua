@@ -1,5 +1,5 @@
-FACTION.name = "British Rifles Enlisted"
-FACTION.desc = "British Rifles Enlisted"
+FACTION.name = "1st Battalion The Rifles Enlisted"
+FACTION.desc = "1st Battalion The Rifles Rifles Enlisted"
 FACTION.color = Color(0, 0, 255)
 FACTION.isDefault = true
 FACTION.models = {
