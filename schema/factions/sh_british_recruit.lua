@@ -15,6 +15,6 @@ function FACTION:onSpawn(client)
 		client:SetHealth(self.health) -- Sets your health, you can not be healed to this amount unless your maxhealth is the same. This is needed because gmod sets your health to 100 by default.
 end
 
-FACTION.pay = 10
+FACTION.pay = 0
 FACTION.isGloballyRecognized = true
 FACTION_UK_RCT = FACTION.index
