@@ -3,7 +3,15 @@ FACTION.desc = "Russian federal Army Recruit."
 FACTION.color = Color(255, 0, 0)
 FACTION.isDefault = true
 FACTION.models = {
-	"models/player/Group01/male_02.mdl"
+	"models/player/rusty/natguard/male_01.mdl",
+	"models/player/rusty/natguard/male_02.mdl",
+	"models/player/rusty/natguard/male_03.mdl",
+	"models/player/rusty/natguard/male_04.mdl",
+	"models/player/rusty/natguard/male_05.mdl",
+	"models/player/rusty/natguard/male_06.mdl",
+	"models/player/rusty/natguard/male_07.mdl",
+	"models/player/rusty/natguard/male_08.mdl",
+	"models/player/rusty/natguard/male_09.mdl"
 }
 FACTION.armor = 0
 FACTION.maxhealth = 100
