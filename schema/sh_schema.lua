@@ -11,4 +11,4 @@ nut.util.include("sh_hooks.lua")
 nut.util.include("meta/sh_player.lua")
 nut.util.include("meta/sh_entity.lua")
 
-nut.anim.setModelClass("memer.mdl", "player")
+nut.anim.setModelClass("models/player/pmc_5/pmc__01.mdl", "player")
